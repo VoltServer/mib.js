@@ -1,0 +1,27 @@
+{
+  "name": "mib.js",
+  "version": "1.0.0",
+  "description": "MIB parser to JSON",
+  "main": "lib/mib.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": {
+    "mib2json": "./mib2json.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoltServer/mib.js.git"
+  },
+  "keywords": [
+    "snmp",
+    "mib",
+    "nms"
+  ],
+  "author": "Thom Nichols <thom.nichols@voltserver.com> (http://voltserver.com/)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/VoltServer/mib.js/issues"
+  },
+  "homepage": "https://github.com/VoltServer/mib.js#readme"
+}
